@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "New York, New York",
+    "Tourist attraction": "Times Square",
+    "Location": "New York, New York",
+    "Visitors (millions)": 50
+  },
+  {
+    "Name": "Las Vegas, Nevada",
+    "Tourist attraction": "Las Vegas Strip",
+    "Location": "Las Vegas, Nevada",
+    "Visitors (millions)": 42
+  },
+  {
+    "Name": "Washington, D.C.",
+    "Tourist attraction": "Union Station",
+    "Location": "Washington, D.C.",
+    "Visitors (millions)": 40
+  },
+  {
+    "Name": "Bloomington, Minnesota",
+    "Tourist attraction": "Mall of America",
+    "Location": "Bloomington, Minnesota",
+    "Visitors (millions)": 40
+  },
+  {
+    "Name": "Chicago, Illinois",
+    "Tourist attraction": "Millennium Park",
+    "Location": "Chicago, Illinois",
+    "Visitors (millions)": 25
+  },
+  {
+    "Name": "San Francisco, California",
+    "Tourist attraction": "Golden Gate Park",
+    "Location": "San Francisco, California",
+    "Visitors (millions)": 24
+  },
+  {
+    "Name": "Orlando, Florida",
+    "Tourist attraction": "Magic Kingdom, Walt Disney World",
+    "Location": "Orlando, Florida",
+    "Visitors (millions)": 20.4
+  },
+  {
+    "Name": "Anaheim, California",
+    "Tourist attraction": "Disneyland Resort",
+    "Location": "Anaheim, California",
+    "Visitors (millions)": 18.76
+  },
+  {
+    "Name": "Boston, Massachusetts",
+    "Tourist attraction": "Faneuil Hall Marketplace",
+    "Location": "Boston, Massachusetts",
+    "Visitors (millions)": 18
+  },
+  {
+    "Name": "San Diego, California",
+    "Tourist attraction": "Balboa Park",
+    "Location": "San Diego, California",
+    "Visitors (millions)": 13
+  },
+  {
+    "Name": "North Carolina and Tennessee",
+    "Tourist attraction": "Great Smoky Mountains National Park",
+    "Location": "North Carolina and Tennessee",
+    "Visitors (millions)": 12.1
+  },
+  {
+    "Name": "Los Angeles, California",
+    "Tourist attraction": "Venice Beach",
+    "Location": "Los Angeles, California",
+    "Visitors (millions)": 10
+  },
+  {
+    "Name": "Seattle, Washington",
+    "Tourist attraction": "Pike Place Market",
+    "Location": "Seattle, Washington",
+    "Visitors (millions)": 10
+  },
+  {
+    "Name": "San Francisco Bay Area, California",
+    "Tourist attraction": "Golden Gate Bridge",
+    "Location": "San Francisco Bay Area, California",
+    "Visitors (millions)": 10
+  },
+  {
+    "Name": "Michigan",
+    "Tourist attraction": "Mackinac Bridge",
+    "Location": "Michigan",
+    "Visitors (millions)": 9
+  },
+  {
+    "Name": "Tusayan, Arizona (nearby)",
+    "Tourist attraction": "Grand Canyon",
+    "Location": "Tusayan, Arizona (nearby)",
+    "Visitors (millions)": 5
+  }
+]
