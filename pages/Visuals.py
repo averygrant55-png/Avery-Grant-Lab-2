@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import csv
 import altair as alt
+import plotly.express as px
 
 
 
@@ -53,7 +54,7 @@ with tab1:
     st.header("Plotly Bar Chart")
     st.write("Shows each tourist attraction and the amount of visitors in millions")
 
-    import plotly.express as px
+
     myData=pd.read_json("united-states-landmarks.json")
     fig=px.bar(myData, x='Tourist attraction', y='Visitors (millions)')
     st.plotly_chart(fig)
